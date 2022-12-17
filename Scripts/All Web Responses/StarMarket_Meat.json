@@ -1,0 +1,1285 @@
+{
+    "response": {
+        "numFound": 131,
+        "start": 0,
+        "docs": [
+            {
+                "name": "Signature Farms Boneless Skinless Chicken Breasts Value Pack - 4.00 Lb",
+                "pid": "960031028",
+                "upc": "0020786500000",
+                "id": "960031028",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 113,
+                "price": 15.96,
+                "promoDescription": "Safeway Club Price: SIGNATURE SALE $3.99 lb&lt;BR&gt;SAVE up to: $0.5 lb",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 17.96,
+                "pricePer": 3.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "4.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "4.6",
+                    "reviewCount": "16",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Chicken Thighs Boneless Skinless Value Pack - 3 Lb",
+                "pid": "960166913",
+                "upc": "0020059300000",
+                "id": "960166913",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1424,
+                "price": 16.16,
+                "promoDescription": "Safeway Club Price: $3.99 lb&lt;BR&gt;SAVE up to: $0.5 lb",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 18.18,
+                "pricePer": 3.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "3.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Wings Value Pack - 3.5 Lbs.",
+                "pid": "188320021",
+                "upc": "0020787400000",
+                "id": "188320021",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1056,
+                "price": 15.22,
+                "promoEndDate": null,
+                "basePrice": 15.22,
+                "pricePer": 4.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "3.05"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "5.0",
+                    "reviewCount": "1",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Chicken Tenders Fresh Clear Wrap - 3.00 LB",
+                "pid": "970044411",
+                "upc": "0020032300000",
+                "id": "970044411",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 99999,
+                "price": 14.97,
+                "promoEndDate": null,
+                "basePrice": 14.97,
+                "pricePer": 4.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "3.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Breast Split Value Pack - 5.00 Lb",
+                "pid": "188320006",
+                "upc": "0026432200000",
+                "id": "188320006",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 4160,
+                "price": 12.45,
+                "promoEndDate": null,
+                "basePrice": 12.45,
+                "pricePer": 2.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "5.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Thighs Boneless Skinless - 3.25 LB",
+                "pid": "960447016",
+                "upc": "0026097300000",
+                "id": "960447016",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 6085,
+                "price": 12.97,
+                "promoDescription": "Safeway Club Price: $3.99 lb&lt;BR&gt;SAVE up to: $0.5 lb",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 14.59,
+                "pricePer": 3.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "3.25"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "4.8",
+                    "reviewCount": "6",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Chicken Breast Boneless Skinless Hand Trimmed - 2 Lb",
+                "pid": "960129763",
+                "upc": "0020089700000",
+                "id": "960129763",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 209,
+                "price": 10.98,
+                "promoEndDate": null,
+                "basePrice": 10.98,
+                "pricePer": 5.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "2.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Bone In Chicken Thighs Value Pack - 5.50 Lb",
+                "pid": "188320007",
+                "upc": "0020787300000",
+                "id": "188320007",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 407,
+                "price": 9.85,
+                "promoEndDate": null,
+                "basePrice": 9.85,
+                "pricePer": 1.79,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "5.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "3.9",
+                    "reviewCount": "7",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Boneless Skinless Chicken Breasts - 2 Lb",
+                "pid": "960026249",
+                "upc": "0020786300000",
+                "id": "960026249",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 443,
+                "price": 9.98,
+                "promoDescription": "Safeway Club Price: SIGNATURE SALE $4.99 lb&lt;BR&gt;SAVE up to: $0.5 lb",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 10.98,
+                "pricePer": 4.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "2.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "4.5",
+                    "reviewCount": "8",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "O Organics Organic Chicken Whole Fresh - 4.75 LB",
+                "pid": "960452048",
+                "upc": "0026084100000",
+                "id": "960452048",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 10332,
+                "price": 20.15,
+                "promoEndDate": null,
+                "basePrice": 20.15,
+                "pricePer": 3.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "5.05"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "5.0",
+                    "reviewCount": "1",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Breast Tenders - 1.25 LB",
+                "pid": "960026250",
+                "upc": "0025239000000",
+                "id": "960026250",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 5512,
+                "price": 12.28,
+                "promoEndDate": null,
+                "basePrice": 12.28,
+                "pricePer": 5.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "2.05"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "O Organics Organic Chicken Thighs Boneless Skinless - 1.50 LB",
+                "pid": "960452043",
+                "upc": "0026061900000",
+                "id": "960452043",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 4107,
+                "price": 11.24,
+                "promoEndDate": null,
+                "basePrice": 11.24,
+                "pricePer": 7.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "1.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "O Organics Organic Chicken Tenders - 1.00 LB",
+                "pid": "960452049",
+                "upc": "0026084200000",
+                "id": "960452049",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 3653,
+                "price": 11.01,
+                "promoEndDate": null,
+                "basePrice": 11.01,
+                "pricePer": 10.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "1.05"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "PERDUE Fresh Boneless Skinless Chicken Breast Tenderloins - 1.50 Lb",
+                "pid": "188300206",
+                "upc": "0027093600000",
+                "id": "188300206",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 929,
+                "price": 8.99,
+                "promoEndDate": null,
+                "basePrice": 8.99,
+                "pricePer": 5.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "1.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "PERDUE Fresh Boneless Skinless Chicken Breasts - 1.50 Lb",
+                "pid": "188300166",
+                "upc": "0027082900000",
+                "id": "188300166",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 296,
+                "price": 8.24,
+                "promoEndDate": null,
+                "basePrice": 8.24,
+                "pricePer": 5.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "1.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Thighs Boneless Skinless Frozen - 40 Oz",
+                "pid": "960151172",
+                "upc": "0002113021055",
+                "id": "960151172",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 6379,
+                "price": 9.99,
+                "promoEndDate": null,
+                "basePrice": 9.99,
+                "pricePer": 4.0,
+                "displayType": "-1",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Bag Fryer - 5.50 LB",
+                "pid": "960284451",
+                "upc": "0020780500000",
+                "id": "960284451",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1470,
+                "price": 8.2,
+                "promoEndDate": null,
+                "basePrice": 8.2,
+                "pricePer": 1.49,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "5.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": null,
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "PERDUE PERFECT PORTIONS All Natural Boneless Skinless Chicken Breast - 1.5 Lb",
+                "pid": "960561198",
+                "upc": "0007274506830",
+                "id": "960561198",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 4924,
+                "price": 9.99,
+                "promoEndDate": null,
+                "basePrice": 9.99,
+                "pricePer": 6.66,
+                "displayType": "-1",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Thin Sliced Chicken Breast Cutlets - LB",
+                "pid": "970118219",
+                "upc": "0025238900000",
+                "id": "970118219",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 99999,
+                "price": 12.28,
+                "promoEndDate": null,
+                "basePrice": 12.28,
+                "pricePer": 5.99,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "2.05"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "2.0",
+                    "reviewCount": "1",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Chicken Drumsticks Value Pack - 5.00 LB",
+                "pid": "188320020",
+                "upc": "0020787200000",
+                "id": "188320020",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1033,
+                "price": 7.25,
+                "promoEndDate": null,
+                "basePrice": 7.25,
+                "pricePer": 1.79,
+                "displayType": "2",
+                "aisleId": "1_19_2_1",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "departmentName": "Meat & Seafood",
+                "shelfName": "Chicken",
+                "aisleLocation": "Meat",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "P",
+                "averageWeight": [
+                    "5.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "5.0",
+                    "reviewCount": "3",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            }
+        ]
+    },
+    "appCode": "[A-BR: 200] [A-PP: 200] [CI204]",
+    "appMsg": "[A-BR: Success.] [A-PP: Skipped service call. ] [CI: Sponsored returned empty response.]",
+    "adRequestUrl": "/v2.2/products?vt=Aisle&po=InGrid&ss=2,4,6,10,12&txid=ProductAlike&txpath=1_19_2_1&store=2576INS&q=&xy=788&rb=starmarket&dc=Web",
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 11,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 67,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 38,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 13,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 2,
+                    "start": "25",
+                    "end": "49.99"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "131",
+                    "name": "Meat & Seafood"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "3",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "3",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "10",
+                    "name": "Signature Farms"
+                },
+                {
+                    "count": "7",
+                    "name": "SIGNATURE FARMS"
+                },
+                {
+                    "count": "4",
+                    "name": "PERDUE"
+                },
+                {
+                    "count": "21",
+                    "name": "SIGNATURE BANNER"
+                },
+                {
+                    "count": "1",
+                    "name": "Murray's"
+                },
+                {
+                    "count": "6",
+                    "name": "Bell & Evans"
+                },
+                {
+                    "count": "3",
+                    "name": "OPEN NATURE"
+                },
+                {
+                    "count": "2",
+                    "name": "Tyson"
+                },
+                {
+                    "count": "1",
+                    "name": "Branding Iron Ranch"
+                },
+                {
+                    "count": "1",
+                    "name": "Do Good"
+                },
+                {
+                    "count": "1",
+                    "name": "Gardein"
+                },
+                {
+                    "count": "1",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "1",
+                    "name": "Perdue Farms"
+                },
+                {
+                    "count": "1",
+                    "name": "SIGNATURE SELECT"
+                },
+                {
+                    "count": "1",
+                    "name": "Safeway"
+                },
+                {
+                    "count": "1",
+                    "name": "Signature CAFE"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "131",
+                    "name": "Chicken & Turkey|1_19_2"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "93",
+                    "name": "N"
+                },
+                {
+                    "count": "38",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "10",
+                    "name": "Sugar-conscious"
+                },
+                {
+                    "count": "9",
+                    "name": "Sodium-conscious"
+                },
+                {
+                    "count": "10",
+                    "name": "Carb-conscious"
+                },
+                {
+                    "count": "9",
+                    "name": "No High Fructose Corn Syrup"
+                },
+                {
+                    "count": "6",
+                    "name": "Paleo-friendly"
+                },
+                {
+                    "count": "5",
+                    "name": "No Added Sugars"
+                },
+                {
+                    "count": "3",
+                    "name": "Organic"
+                },
+                {
+                    "count": "6",
+                    "name": "Keto-friendly"
+                },
+                {
+                    "count": "4",
+                    "name": "Protein pick"
+                },
+                {
+                    "count": "2",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Pescatarian"
+                },
+                {
+                    "count": "1",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "1",
+                    "name": "Vegetarian"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "131",
+                    "name": "Meat & Seafood:|1_19"
+                }
+            ],
+            "shelfName": [
+                {
+                    "count": "131",
+                    "name": "Chicken"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "131",
+                    "name": "Chicken|1_19_2_1"
+                }
+            ],
+            "inventoryAvailable": [
+                {
+                    "count": "70",
+                    "name": "1"
+                },
+                {
+                    "count": "61",
+                    "name": "0"
+                }
+            ]
+        },
+        "facet_queries": {}
+    }
+}

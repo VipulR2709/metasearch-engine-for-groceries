@@ -1,0 +1,2338 @@
+{
+    "data": {
+        "product_summaries": [
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15389536",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "illy Medium Roast Whole Bean Coffee - 8.8oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/illy-medium-roast-whole-bean-coffee-8-8oz/-/A-15389536"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1144169"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 14.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY_PPO",
+                            "BuyInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "15389536",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12959301",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Frappuccino Chilled Coffee Drink - 13.7 fl oz Glass Bottle"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-frappuccino-chilled-coffee-drink-13-7-fl-oz-glass-bottle/-/A-12959301"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 65,
+                        "department_id": 271
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4224853"
+                        },
+                        {
+                            "id": "3759594"
+                        },
+                        {
+                            "id": "3759578"
+                        },
+                        {
+                            "id": "3759507"
+                        },
+                        {
+                            "id": "3759484"
+                        },
+                        {
+                            "id": "3759390"
+                        },
+                        {
+                            "id": "3759374"
+                        },
+                        {
+                            "id": "3759361"
+                        },
+                        {
+                            "id": "3759332"
+                        },
+                        {
+                            "id": "3759316"
+                        },
+                        {
+                            "id": "3759303"
+                        },
+                        {
+                            "id": "3759293"
+                        },
+                        {
+                            "id": "3759251"
+                        },
+                        {
+                            "id": "3759248"
+                        },
+                        {
+                            "id": "3759219"
+                        },
+                        {
+                            "id": "3759183"
+                        },
+                        {
+                            "id": "3759141"
+                        },
+                        {
+                            "id": "3759125"
+                        },
+                        {
+                            "id": "3759028"
+                        },
+                        {
+                            "id": "3758980"
+                        },
+                        {
+                            "id": "3758935"
+                        },
+                        {
+                            "id": "3758906"
+                        },
+                        {
+                            "id": "3758841"
+                        },
+                        {
+                            "id": "3758838"
+                        },
+                        {
+                            "id": "3758825"
+                        },
+                        {
+                            "id": "3758757"
+                        },
+                        {
+                            "id": "3758731"
+                        },
+                        {
+                            "id": "3758728"
+                        },
+                        {
+                            "id": "3758702"
+                        },
+                        {
+                            "id": "3758692"
+                        },
+                        {
+                            "id": "3758676"
+                        },
+                        {
+                            "id": "3758663"
+                        },
+                        {
+                            "id": "3758566"
+                        },
+                        {
+                            "id": "3758540"
+                        },
+                        {
+                            "id": "3758469"
+                        },
+                        {
+                            "id": "3758430"
+                        },
+                        {
+                            "id": "3758388"
+                        },
+                        {
+                            "id": "3593352"
+                        },
+                        {
+                            "id": "2982304"
+                        },
+                        {
+                            "id": "2523527"
+                        },
+                        {
+                            "id": "2325411"
+                        },
+                        {
+                            "id": "2287229"
+                        },
+                        {
+                            "id": "2001466"
+                        },
+                        {
+                            "id": "2001037"
+                        },
+                        {
+                            "id": "1303201"
+                        },
+                        {
+                            "id": "1272112"
+                        },
+                        {
+                            "id": "1264418"
+                        },
+                        {
+                            "id": "1257166"
+                        },
+                        {
+                            "id": "1252394"
+                        },
+                        {
+                            "id": "1249815"
+                        },
+                        {
+                            "id": "1227031"
+                        },
+                        {
+                            "id": "1222599"
+                        },
+                        {
+                            "id": "1213676"
+                        },
+                        {
+                            "id": "1167230"
+                        },
+                        {
+                            "id": "1156720"
+                        },
+                        {
+                            "id": "1153309"
+                        },
+                        {
+                            "id": "1137998"
+                        },
+                        {
+                            "id": "1137956"
+                        },
+                        {
+                            "id": "1137930"
+                        },
+                        {
+                            "id": "1137684"
+                        },
+                        {
+                            "id": "1137626"
+                        },
+                        {
+                            "id": "1137590"
+                        },
+                        {
+                            "id": "1137558"
+                        },
+                        {
+                            "id": "1137545"
+                        },
+                        {
+                            "id": "1137532"
+                        },
+                        {
+                            "id": "1137529"
+                        },
+                        {
+                            "id": "1137419"
+                        },
+                        {
+                            "id": "1137406"
+                        },
+                        {
+                            "id": "1137309"
+                        },
+                        {
+                            "id": "1137215"
+                        },
+                        {
+                            "id": "1137118"
+                        },
+                        {
+                            "id": "1136164"
+                        },
+                        {
+                            "id": "1134564"
+                        },
+                        {
+                            "id": "1134535"
+                        },
+                        {
+                            "id": "1133879"
+                        },
+                        {
+                            "id": "1129993"
+                        },
+                        {
+                            "id": "1119259"
+                        },
+                        {
+                            "id": "1109832"
+                        },
+                        {
+                            "id": "1101319"
+                        },
+                        {
+                            "id": "1099308"
+                        },
+                        {
+                            "id": "1097465"
+                        },
+                        {
+                            "id": "1094138"
+                        },
+                        {
+                            "id": "1088005"
+                        },
+                        {
+                            "id": "1087530"
+                        },
+                        {
+                            "id": "1075555"
+                        },
+                        {
+                            "id": "1074873"
+                        },
+                        {
+                            "id": "1069406"
+                        },
+                        {
+                            "id": "1065837"
+                        },
+                        {
+                            "id": "1059982"
+                        },
+                        {
+                            "id": "1059542"
+                        },
+                        {
+                            "id": "1056820"
+                        },
+                        {
+                            "id": "1050033"
+                        },
+                        {
+                            "id": "1047127"
+                        },
+                        {
+                            "id": "1047114"
+                        },
+                        {
+                            "id": "1046348"
+                        },
+                        {
+                            "id": "1046296"
+                        },
+                        {
+                            "id": "1041259"
+                        },
+                        {
+                            "id": "1040674"
+                        },
+                        {
+                            "id": "1033704"
+                        },
+                        {
+                            "id": "1033694"
+                        },
+                        {
+                            "id": "1031447"
+                        },
+                        {
+                            "id": "1025259"
+                        },
+                        {
+                            "id": "1016394"
+                        },
+                        {
+                            "id": "1016381"
+                        },
+                        {
+                            "id": "1010866"
+                        },
+                        {
+                            "id": "1010837"
+                        },
+                        {
+                            "id": "1003844"
+                        },
+                        {
+                            "id": "1002201"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 3.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "12959301",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14892887",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Peet&#39;s Caf&#233; Domingo Medium Roast Ground Coffee - 10.5oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/peet-39-s-caf-233-domingo-medium-roast-ground-coffee-10-5oz/-/A-14892887"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1274589"
+                        },
+                        {
+                            "id": "1269659"
+                        },
+                        {
+                            "id": "1213676"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 10.89
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14892887",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12954046",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Dark Roast Ground Coffee &#8212; Caff&#232; Verona &#8212; 100% Arabica &#8212; 1 bag (12 oz.)"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-dark-roast-ground-coffee-8212-caff-232-verona-8212-100-arabica-8212-1-bag-12-oz/-/A-12954046"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1283570"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "12954046",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15353007",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Peace Coffee Organic Fair Trade Birchwood Blend Medium Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/peace-coffee-organic-fair-trade-birchwood-blend-medium-roast-ground-coffee-12oz/-/A-15353007"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1312315"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 12.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "15353007",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-12",
+                                "max_delivery_date": "2022-12-12",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "50300469",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Caribou Vanilla Hazelnut Dreamstate Medium Roast Ground Coffee - 11oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/caribou-vanilla-hazelnut-dreamstate-medium-roast-ground-coffee-11oz/-/A-50300469"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1269659"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "50300469",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "UNAVAILABLE",
+                        "loyalty_availability_status": "UNAVAILABLE",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "81279967",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Coffee Capsules for Nespresso Vertuo Machines &#8212; Medium Roast Pike Place Roast &#8212; 1 box (8 coffee pods)"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-coffee-capsules-for-nespresso-vertuo-machines-8212-medium-roast-pike-place-roast-8212-1-box-8-coffee-pods/-/A-81279967"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 10.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "81279967",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "78295110",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Discoveries Black Unsweetened Cold Brew Coffee - 40 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-discoveries-black-unsweetened-cold-brew-coffee-40-fl-oz/-/A-78295110"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 284
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3888533"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1213676"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 5.89
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "78295110",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "OUT_OF_STOCK"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13302672",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Dark Roast Whole Bean Coffee &#8212; Espresso Roast &#8212; 100% Arabica &#8212; 1 bag (12 oz.)"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-dark-roast-whole-bean-coffee-8212-espresso-roast-8212-100-arabica-8212-1-bag-12-oz/-/A-13302672"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1283570"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13302672",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15061751",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Medium Roast Whole Bean Coffee &#8212; Pike Place Roast &#8212; 100% Arabica &#8212; 1 bag (12 oz.)"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-medium-roast-whole-bean-coffee-8212-pike-place-roast-8212-100-arabica-8212-1-bag-12-oz/-/A-15061751"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1283570"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "15061751",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14843582",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Peet&#39;s Major Dickason&#39;s Blend Dark Roast Whole Bean Coffee - 10.5oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/peet-39-s-major-dickason-39-s-blend-dark-roast-whole-bean-coffee-10-5oz/-/A-14843582"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1274589"
+                        },
+                        {
+                            "id": "1269659"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 10.89
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14843582",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13461029",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Eight O'Clock Original Medium Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/eight-o-clock-original-medium-roast-ground-coffee-12oz/-/A-13461029"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1138133"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 6.29
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY",
+                            "BuyInStore",
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13461029",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "54459234",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Caribou Coffee S'mores Medium Roast Ground Coffee - 11oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/caribou-coffee-s-mores-medium-roast-ground-coffee-11oz/-/A-54459234"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1269659"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "54459234",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "UNAVAILABLE",
+                        "loyalty_availability_status": "UNAVAILABLE",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13199450",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Don Francisco's Cinnamon Hazelnut Medium Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/don-francisco-s-cinnamon-hazelnut-medium-roast-ground-coffee-12oz/-/A-13199450"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1146662"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 6.79
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13199450",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "UNAVAILABLE",
+                        "loyalty_availability_status": "UNAVAILABLE",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "50694768",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "SToK Black Unsweetened Cold Brew Coffee - 48 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/stok-black-unsweetened-cold-brew-coffee-48-fl-oz/-/A-50694768"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 284
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1218862"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 5.49
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "50694768",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "OUT_OF_STOCK"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15605615",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Discoveries Unsweetened Medium Roast Iced Coffee - 48 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-discoveries-unsweetened-medium-roast-iced-coffee-48-fl-oz/-/A-15605615"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 284
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3888533"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1213676"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 5.89
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "15605615",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "LIMITED_STOCK_SEE_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "51509181",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Premium Roast Medium Roast Coffee - Single Serve Pods - 12ct - Market Pantry&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/premium-roast-medium-roast-coffee-single-serve-pods-12ct-market-pantry-8482/-/A-51509181"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1298125"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 3.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "87984358",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Premium Roast Medium Roast Coffee - Single Serve Pods - 12ct - Market Pantry™"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/premium-roast-medium-roast-coffee-single-serve-pods-12ct-market-pantry/-/A-87984358"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 10,
+                            "department_id": 231
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "51509181",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "53404345",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "The Original Donut Shop Regular Keurig K-Cup Coffee Pods - Medium Roast - 48ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/the-original-donut-shop-regular-keurig-k-cup-coffee-pods-medium-roast-48ct/-/A-53404345"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1176519"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 28.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "87984791",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "The Original Donut Shop Regular Keurig K-Cup Coffee Pods Medium Roast"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/the-original-donut-shop-regular-keurig-k-cup-coffee-pods-medium-roast/-/A-87984791"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 10,
+                            "department_id": 231
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "53404345",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "50306753",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Equal Exchange Organic Mind, Body, & Soul Medium Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/equal-exchange-organic-mind-body-soul-medium-roast-ground-coffee-12oz/-/A-50306753"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1972688"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 11.19
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "50306753",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "79582255",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "24ct Green Mountain Coffee Cinnamon Sugar Cookie Keurig K-Cup Coffee Pods Flavored Coffee Light Roast"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/24ct-green-mountain-coffee-cinnamon-sugar-cookie-keurig-k-cup-coffee-pods-flavored-coffee-light-roast/-/A-79582255"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1176519"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 15.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "79582255",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12954333",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Dark Roast Ground Coffee &#8212; Italian Roast &#8212; 100% Arabica &#8212; 1 bag (12 oz.)"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-dark-roast-ground-coffee-8212-italian-roast-8212-100-arabica-8212-1-bag-12-oz/-/A-12954333"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1283570"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "12954333",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "85813880",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Starbucks Salted Caramel Mocha Medium Roast Coffee - 11oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/starbucks-salted-caramel-mocha-medium-roast-coffee-11oz/-/A-85813880"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "85813880",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13400831",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Dunkin&#39; Original Blend Whole Bean Coffee Medium Roast - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/dunkin-39-original-blend-whole-bean-coffee-medium-roast-12oz/-/A-13400831"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "1244506"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13400831",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13399847",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Dunkin&#39; French Vanilla Flavored Medium Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/dunkin-39-french-vanilla-flavored-medium-roast-ground-coffee-12oz/-/A-13399847"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "3872918"
+                        },
+                        {
+                            "id": "1244506"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13399847",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "79575167",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Peet&#39;s Big Bang Medium Roast Ground Coffee - 18oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/peet-39-s-big-bang-medium-roast-ground-coffee-18oz/-/A-79575167"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1274589"
+                        },
+                        {
+                            "id": "1269659"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 15.29
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "79575167",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13400186",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Dunkin&#39; Hazelnut Flavored Light Roast Ground Coffee - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/dunkin-39-hazelnut-flavored-light-roast-ground-coffee-12oz/-/A-13400186"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "3872918"
+                        },
+                        {
+                            "id": "1244506"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13400186",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "78613367",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Signature Coffee Organic Ethiopian Yirgacheffe Light Roast Ground Coffee - 12oz - Good &#38; Gather&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/signature-coffee-organic-ethiopian-yirgacheffe-light-roast-ground-coffee-12oz-good-38-gather-8482/-/A-78613367"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1298125"
+                        },
+                        {
+                            "id": "1122987"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 7.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY_PPO"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "78613367",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13479114",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Folgers Classic Medium Roast Instant Coffee - Decaf - 8oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/folgers-classic-medium-roast-instant-coffee-decaf-8oz/-/A-13479114"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 10,
+                        "department_id": 231
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "3872918"
+                        },
+                        {
+                            "id": "1244506"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 7.99
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY",
+                            "SCHEDULED_DELIVERY_PPO",
+                            "BuyInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13479114",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "1898",
+                            "store": {
+                                "location_name": "Boston South Bay"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            }
+        ]
+    }
+}

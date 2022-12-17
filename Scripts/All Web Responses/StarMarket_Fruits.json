@@ -1,0 +1,1025 @@
+{
+    "response": {
+        "numFound": 152,
+        "start": 0,
+        "docs": [
+            {
+                "name": "Banana - Each",
+                "pid": "184060007",
+                "upc": "0048406000701",
+                "id": "184060007",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1,
+                "price": 0.28,
+                "promoEndDate": null,
+                "basePrice": 0.28,
+                "pricePer": 0.69,
+                "displayType": "1",
+                "aisleId": "1_23_1_3",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Bananas",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "0.41"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Red Seedless Grapes - 2 Lb",
+                "pid": "184100012",
+                "upc": "0048410001201",
+                "id": "184100012",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 44,
+                "price": 5.74,
+                "promoDescription": "Safeway Club Price: $2.87 lb&lt;BR&gt;SAVE up to: $0.12 lb",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 5.98,
+                "pricePer": 2.87,
+                "displayType": "1",
+                "aisleId": "1_23_1_6",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Grapes",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "2.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Honeycrisp Apple",
+                "pid": "184020020",
+                "upc": "0048402002001",
+                "id": "184020020",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 4,
+                "price": 1.5,
+                "promoEndDate": null,
+                "basePrice": 1.5,
+                "pricePer": 2.99,
+                "displayType": "1",
+                "aisleId": "1_23_1_1",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Apples",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "0.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Blueberries Prepackaged - 18 Oz.",
+                "pid": "960015089",
+                "upc": "0085308500304",
+                "id": "960015089",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 102,
+                "price": 7.99,
+                "promoEndDate": null,
+                "basePrice": 7.99,
+                "pricePer": 7.1,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "false",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Raspberries Prepacked - 6 Oz",
+                "pid": "184070159",
+                "upc": "0071575610001",
+                "id": "184070159",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 47,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 13.31,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "aisleLocation": "Ask Associate",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Medium Hass Avocado",
+                "pid": "184040105",
+                "upc": "0007074012111",
+                "id": "184040105",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 7,
+                "price": 1.99,
+                "promoEndDate": null,
+                "basePrice": 1.99,
+                "pricePer": 1.99,
+                "displayType": "-1",
+                "aisleId": "1_23_1_2",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Avocados",
+                "unitOfMeasure": "EA",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.40"
+                ],
+                "unitQuantity": "EACH",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Green Seedless Grapes - 2 Lb",
+                "pid": "184100014",
+                "upc": "0048410001403",
+                "id": "184100014",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 73,
+                "price": 5.74,
+                "promoDescription": "Safeway Club Price: $2.87 lb&lt;BR&gt;SAVE up to: $0.12 lb",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 5.98,
+                "pricePer": 2.87,
+                "displayType": "1",
+                "aisleId": "1_23_1_6",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Grapes",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "2.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": null,
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Blueberries Prepacked - 1 Pint",
+                "pid": "960043188",
+                "upc": "0081588701025",
+                "id": "960043188",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 86,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 4.99,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "unitOfMeasure": "PT",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "DR.PT",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "false",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Red Raspberries Prepacked - 12 Oz",
+                "pid": "960013615",
+                "upc": "0071575610003",
+                "id": "960013615",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 195,
+                "price": 8.99,
+                "promoEndDate": null,
+                "basePrice": 8.99,
+                "pricePer": 11.99,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "aisleLocation": "Ask Associate",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "false",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Bartlett Pear",
+                "pid": "184120604",
+                "upc": "0048412017501",
+                "id": "184120604",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 19,
+                "price": 0.84,
+                "promoDescription": "Safeway Club Price: $1.67 lb&lt;BR&gt;SAVE up to: $0.82 lb",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 1.25,
+                "pricePer": 1.67,
+                "displayType": "1",
+                "aisleId": "1_23_1_8",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Pears",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "0.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Produce Blackberries Prepacked Fresh - 6 Oz",
+                "pid": "184070027",
+                "upc": "0750301951903",
+                "id": "184070027",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 104,
+                "price": 3.99,
+                "promoEndDate": null,
+                "basePrice": 3.99,
+                "pricePer": 10.64,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "aisleLocation": "Ask Associate",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "false",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Signature Farms Blueberries - 18 Oz",
+                "pid": "960456259",
+                "upc": "0002113025073",
+                "id": "960456259",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 253,
+                "price": 7.99,
+                "promoEndDate": null,
+                "basePrice": 7.99,
+                "pricePer": 7.1,
+                "displayType": "-1",
+                "aisleId": "1_23_1_4",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Berries",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "POUND",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Mandarins Clementine Prepacked Bag - 2 Lb",
+                "pid": "184080057",
+                "upc": "0005410722102",
+                "id": "184080057",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 269,
+                "price": 5.0,
+                "promoDescription": "Safeway Club Price: $5.0&lt;BR&gt;SAVE up to: $0.99",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 5.99,
+                "pricePer": 2.5,
+                "displayType": "1",
+                "aisleId": "1_23_1_5",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Citrus",
+                "unitOfMeasure": "EA",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "2.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Cosmic Crisp Apple",
+                "pid": "960541354",
+                "upc": "0048402038701",
+                "id": "960541354",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 91,
+                "price": 1.0,
+                "promoEndDate": null,
+                "basePrice": 1.0,
+                "pricePer": 1.99,
+                "displayType": "1",
+                "aisleId": "1_23_1_1",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Apples",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "W",
+                "averageWeight": [
+                    "0.50"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": "approx",
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            },
+            {
+                "name": "Navel Oranges Prepacked Bag - 4 Lb",
+                "pid": "184080293",
+                "upc": "0002113000998",
+                "id": "184080293",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 192,
+                "price": 6.99,
+                "promoEndDate": null,
+                "basePrice": 6.99,
+                "pricePer": 1.75,
+                "displayType": "-1",
+                "aisleId": "1_23_1_5",
+                "aisleName": "Fresh Fruits|1_23_1",
+                "departmentName": "Fruits & Vegetables",
+                "shelfName": "Citrus",
+                "aisleLocation": "Produce",
+                "unitOfMeasure": "LB",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "LB",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                },
+                "productReview": {
+                    "avgRating": "0.0",
+                    "reviewCount": "0",
+                    "isReviewWriteEligible": "true",
+                    "isReviewDisplayEligible": "true",
+                    "isForOnetimeReview": "true",
+                    "reviewTemplateType": "default"
+                }
+            }
+        ]
+    },
+    "appCode": "[A-BR: 200] [A-PP: 200] [CI204]",
+    "appMsg": "[A-BR: Success.] [A-PP: Skipped service call. ] [CI: Sponsored returned empty response.]",
+    "adRequestUrl": "/v2.2/products?vt=Aisle&po=InGrid&ss=2,4,6,10,12&txid=ProductAlike&txpath=1_23_1&store=2576INS&q=&xy=642&rb=starmarket&dc=Web",
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 87,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 62,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 2,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 1,
+                    "start": "25",
+                    "end": "49.99"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "152",
+                    "name": "Fruits & Vegetables"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "4",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "139",
+                    "name": "Produce"
+                },
+                {
+                    "count": "7",
+                    "name": "Signature Farms"
+                },
+                {
+                    "count": "1",
+                    "name": "Tricar Organics"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "152",
+                    "name": "Fresh Fruits|1_23_1"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "123",
+                    "name": "N"
+                },
+                {
+                    "count": "29",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "28",
+                    "name": "Organic"
+                },
+                {
+                    "count": "16",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "18",
+                    "name": "Sodium-conscious"
+                },
+                {
+                    "count": "14",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "13",
+                    "name": "No High Fructose Corn Syrup"
+                },
+                {
+                    "count": "13",
+                    "name": "Paleo-friendly"
+                },
+                {
+                    "count": "13",
+                    "name": "Pescatarian"
+                },
+                {
+                    "count": "13",
+                    "name": "Vegetarian"
+                },
+                {
+                    "count": "5",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "5",
+                    "name": "No Added Sugars"
+                },
+                {
+                    "count": "1",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Sugar-conscious"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "152",
+                    "name": "Fruits & Vegetables:|1_23"
+                }
+            ],
+            "shelfName": [
+                {
+                    "count": "23",
+                    "name": "Berries"
+                },
+                {
+                    "count": "34",
+                    "name": "Apples"
+                },
+                {
+                    "count": "26",
+                    "name": "Citrus"
+                },
+                {
+                    "count": "10",
+                    "name": "Grapes"
+                },
+                {
+                    "count": "8",
+                    "name": "Pears"
+                },
+                {
+                    "count": "6",
+                    "name": "Avocados"
+                },
+                {
+                    "count": "3",
+                    "name": "Bananas"
+                },
+                {
+                    "count": "27",
+                    "name": "Tropical Fruit"
+                },
+                {
+                    "count": "11",
+                    "name": "Melons"
+                },
+                {
+                    "count": "4",
+                    "name": "Seasonal & Stone Fruit"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "23",
+                    "name": "Berries|1_23_1_4"
+                },
+                {
+                    "count": "34",
+                    "name": "Apples|1_23_1_1"
+                },
+                {
+                    "count": "26",
+                    "name": "Citrus|1_23_1_5"
+                },
+                {
+                    "count": "10",
+                    "name": "Grapes|1_23_1_6"
+                },
+                {
+                    "count": "8",
+                    "name": "Pears|1_23_1_8"
+                },
+                {
+                    "count": "6",
+                    "name": "Avocados|1_23_1_2"
+                },
+                {
+                    "count": "3",
+                    "name": "Bananas|1_23_1_3"
+                },
+                {
+                    "count": "27",
+                    "name": "Tropical Fruit|1_23_1_10"
+                },
+                {
+                    "count": "11",
+                    "name": "Melons|1_23_1_7"
+                },
+                {
+                    "count": "4",
+                    "name": "Seasonal & Stone Fruit|1_23_1_9"
+                }
+            ],
+            "inventoryAvailable": [
+                {
+                    "count": "122",
+                    "name": "1"
+                },
+                {
+                    "count": "30",
+                    "name": "0"
+                }
+            ]
+        },
+        "facet_queries": {}
+    }
+}

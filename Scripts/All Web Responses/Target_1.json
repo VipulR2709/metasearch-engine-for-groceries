@@ -1,0 +1,1765 @@
+{
+    "data": {
+        "product_summaries": [
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12964744",
+                "item": {
+                    "bundle_components": {
+                        "product_relationship_type": "Bundle Component"
+                    },
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Kleenex Ultra Soft Facial Tissue - 4pk/60ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/kleenex-ultra-soft-facial-tissue-4pk-60ct/-/A-12964744"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 7,
+                        "department_id": 253
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2919050"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 6.19
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "84780536",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Kleenex Ultra Soft Facial Tissue"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/kleenex-ultra-soft-facial-tissue/-/A-84780536"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 7,
+                            "department_id": 253
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "12964744",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "11276157",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Claritin Allergy Relief 24 Hour Non-Drowsy Loratadine Tablets - 30ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/claritin-allergy-relief-24-hour-non-drowsy-loratadine-tablets-30ct/-/A-11276157"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4164146"
+                        },
+                        {
+                            "id": "3378069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 25.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "80354268",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VPC",
+                        "product_description": {
+                            "title": "Claritin Allergy Relief 24 Hour Non-Drowsy Loratadine Tablets"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/claritin-allergy-relief-24-hour-non-drowsy-loratadine-tablets/-/A-80354268"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "11276157",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "11054785",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Refresh Plus Preservative Free Lubricant Eye Drops - 70ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/refresh-plus-preservative-free-lubricant-eye-drops-70ct/-/A-11054785"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 9,
+                        "department_id": 245
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1084782"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 26.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "11054785",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13263274",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Allegra 24 Hour Allergy Relief Tablets - Fexofenadine Hydrochloride - 30ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/allegra-24-hour-allergy-relief-tablets-fexofenadine-hydrochloride-30ct/-/A-13263274"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1654138"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 24.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "15068699",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Allegra 24 Hour Allergy Relief Tablets - Fexofenadine Hydrochloride"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/allegra-24-hour-allergy-relief-tablets-fexofenadine-hydrochloride/-/A-15068699"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13263274",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15068149",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Nasacort Allergy Relief Spray - Triamcinolone Acetonide - 0.37 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nasacort-allergy-relief-spray-triamcinolone-acetonide-0-37-fl-oz/-/A-15068149"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1654138"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 17.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "15143450",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Nasacort Allergy Relief Spray - Triamcinolone Acetonide"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nasacort-allergy-relief-spray-triamcinolone-acetonide/-/A-15143450"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY_PPO",
+                            "BuyInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "15068149",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14738834",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Refresh Optive Sensitive Lubricant Eye Drops - 60ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/refresh-optive-sensitive-lubricant-eye-drops-60ct/-/A-14738834"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 9,
+                        "department_id": 245
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1084782"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 26.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14738834",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "LIMITED_STOCK_SEE_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "10823475",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Zyrtec 24 Hour Allergy Relief Tablets - Cetirizine HCl - 30ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/zyrtec-24-hour-allergy-relief-tablets-cetirizine-hcl-30ct/-/A-10823475"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2803069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 23.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "15075280",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Zyrtec 24 Hour Allergy Relief Tablets - Cetirizine HCl"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/zyrtec-24-hour-allergy-relief-tablets-cetirizine-hcl/-/A-15075280"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "10823475",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "78780978",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Pataday Twice Daily Eye Allergy Itch and Redness Relief Drops - 0.17 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/pataday-twice-daily-eye-allergy-itch-and-redness-relief-drops-0-17-fl-oz/-/A-78780978"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 9,
+                        "department_id": 245
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1065358"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 21.49
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "78780978",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "84855938",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "CC",
+                    "product_description": {
+                        "title": "Astepro Azelastine Hydrochloride Allergy Steroid Free Antihistamine Nasal Spray - 60 Metered Sprays"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/astepro-azelastine-hydrochloride-allergy-steroid-free-antihistamine-nasal-spray-60-metered-sprays/-/A-84855938"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3378069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 15.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "84855938",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15118506",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Benadryl Ultratabs Allergy Relief Tablets - Diphenhydramine - 48ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/benadryl-ultratabs-allergy-relief-tablets-diphenhydramine-48ct/-/A-15118506"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2803069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 9.69
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "15118506",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12049604",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Zyrtec 24 Hour Allergy Relief Capsules - Cetirizine HCl - 40ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/zyrtec-24-hour-allergy-relief-capsules-cetirizine-hcl-40ct/-/A-12049604"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2803069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 29.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "15075282",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Zyrtec 24 Hour Allergy Relief Capsules - Cetirizine HCl"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/zyrtec-24-hour-allergy-relief-capsules-cetirizine-hcl/-/A-15075282"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "12049604",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "84855940",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "CC",
+                    "product_description": {
+                        "title": "Astepro Allergy Azelastine Hydrochloride Steroid Free Antihistamine Nasal Spray - 120 Metered Sprays"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/astepro-allergy-azelastine-hydrochloride-steroid-free-antihistamine-nasal-spray-120-metered-sprays/-/A-84855940"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3378069"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 24.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "84855940",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14214405",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Lysol Disinfectant Crisp Linen Spray - 19oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/lysol-disinfectant-crisp-linen-spray-19oz/-/A-14214405"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 3
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3941056"
+                        },
+                        {
+                            "id": "1176849"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 7.79
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14214405",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "51579535",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Xyzal Allergy Relief Tablets - Levocetirizine Dihydrochloride - 35ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/xyzal-allergy-relief-tablets-levocetirizine-dihydrochloride-35ct/-/A-51579535"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1654138"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 21.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "51676761",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Xyzal&#168; Allergy Relief Tablets - Levocetirizine"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/xyzal-168-allergy-relief-tablets-levocetirizine/-/A-51676761"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "51579535",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "81887759",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Pataday Once Daily Relief Extra Strength Allergy Drops - 0.085 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/pataday-once-daily-relief-extra-strength-allergy-drops-0-085-fl-oz/-/A-81887759"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 9,
+                        "department_id": 245
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1065358"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 25.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "83775159",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Pataday Once Daily Relief Extra Strength Allergy Drops"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/pataday-once-daily-relief-extra-strength-allergy-drops/-/A-83775159"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 9,
+                            "department_id": 245
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "81887759",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "78780980",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Pataday Once Daily Relief Allergy Drops - 0.085 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/pataday-once-daily-relief-allergy-drops-0-085-fl-oz/-/A-78780980"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 9,
+                        "department_id": 245
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1065358"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 25.49
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "87363258",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Pataday Once Daily Relief Allergy Drops"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/pataday-once-daily-relief-allergy-drops/-/A-87363258"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 9,
+                            "department_id": 245
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "78780980",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "78055198",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Lysol Laundry Sanitizer Free &#38; Clear - 90 fl oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/lysol-laundry-sanitizer-free-38-clear-90-fl-oz/-/A-78055198"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 7,
+                        "department_id": 3
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3941056"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 12.79
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "86745393",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Lysol Laundry Sanitizer Free & Clear"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/lysol-laundry-sanitizer-free-clear/-/A-86745393"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 7,
+                            "department_id": 3
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "78055198",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "11005232",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Cetirizine Hydrochloride Allergy Relief Tablets - 14ct - up &#38; up&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/cetirizine-hydrochloride-allergy-relief-tablets-14ct-up-38-up-8482/-/A-11005232"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3763593"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 5.59
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "16740368",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Cetirizine Hydrochloride Allergy Relief Tablets - up & up™"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/cetirizine-hydrochloride-allergy-relief-tablets-up-up/-/A-16740368"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "11005232",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "75571958",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Fridababy 3-in-1 Humidifier with Diffuser and Nightlight"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/fridababy-3-in-1-humidifier-with-diffuser-and-nightlight/-/A-75571958"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 30
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1263231"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 54.99
+                },
+                "esp": {
+                    "esp_group_id": "Allstate - Electronics",
+                    "product_description": {
+                        "title": "2 Year Electronics Protection Plan ($50-$74.99) - Allstate"
+                    },
+                    "tcin": "51514007"
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "75571958",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-09",
+                                "max_delivery_date": "2022-12-09",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "11010196",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Loratadine Allergy Relief Tablets - 30ct - up &#38; up&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/loratadine-allergy-relief-tablets-30ct-up-38-up-8482/-/A-11010196"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3763593"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 6.39
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "80354269",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Loratadine Allergy Relief Tablets - up & up™"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/loratadine-allergy-relief-tablets-up-up/-/A-80354269"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        }
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "11010196",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13637331",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Fexofenadine Hydrochloride Allergy Relief Tablets - 30ct - up &#38; up&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/fexofenadine-hydrochloride-allergy-relief-tablets-30ct-up-38-up-8482/-/A-13637331"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3763593"
+                        },
+                        {
+                            "id": "1106204"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 12.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "16575827",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Fexofenadine Hydrochloride Allergy Relief Tablets - up & up™"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/fexofenadine-hydrochloride-allergy-relief-tablets-up-up/-/A-16575827"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13637331",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "OUT_OF_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "11046964",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "VC",
+                    "product_description": {
+                        "title": "Diphenhydramine HCI Allergy Relief Tablets - 100ct - up &#38; up&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/diphenhydramine-hci-allergy-relief-tablets-100ct-up-38-up-8482/-/A-11046964"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 4,
+                        "department_id": 94
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3763593"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 4.99
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "51218071",
+                    "item": {
+                        "is_limited_time_offer": false,
+                        "relationship_type_code": "VAP",
+                        "product_description": {
+                            "title": "Diphenhydramine Hydrochloride Allergy Relief Tablets - up & up™"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/diphenhydramine-hydrochloride-allergy-relief-tablets-up-up/-/A-51218071"
+                        },
+                        "merchandise_classification": {
+                            "class_id": 4,
+                            "department_id": 94
+                        },
+                        "eligibility_rules": {}
+                    }
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "11046964",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2022-12-08",
+                                "max_delivery_date": "2022-12-08",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-04",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            }
+        ]
+    }
+}

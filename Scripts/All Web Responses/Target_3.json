@@ -1,0 +1,2091 @@
+{
+    "data": {
+        "product_summaries": [
+            {
+                "__typename": "ProductSummary",
+                "tcin": "26397716",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Simply Steamers Frozen Chicken Broccoli Alfredo - 9.15oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-simply-steamers-frozen-chicken-broccoli-alfredo-9-15oz/-/A-26397716"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "26397716",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "LIMITED_STOCK_SEE_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "50427821",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Gluten Free Simply Vegan Frozen Unwrapped Burrito Bowl - 9.25oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-gluten-free-simply-vegan-frozen-unwrapped-burrito-bowl-9-25oz/-/A-50427821"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "50427821",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13050438",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Bertolli Frozen Italian Sausage &#38; Rigatoni Dinner - 22oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/bertolli-frozen-italian-sausage-38-rigatoni-dinner-22oz/-/A-13050438"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 11,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3093739"
+                        },
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 8.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13050438",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "82397107",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Frozen Pasta Shells in Cheddar Cheese Sauce - 7oz - Good &#38; Gather&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/frozen-pasta-shells-in-cheddar-cheese-sauce-7oz-good-38-gather-8482/-/A-82397107"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2000166"
+                        },
+                        {
+                            "id": "1984833"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 2.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "82397107",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "82397108",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Frozen Stuffed Mini Rigatoni in a Marinara Sauce -with Hidden Vegetables - 8oz - Good &#38; Gather&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/frozen-stuffed-mini-rigatoni-in-a-marinara-sauce-with-hidden-vegetables-8oz-good-38-gather-8482/-/A-82397108"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2000166"
+                        },
+                        {
+                            "id": "1984833"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 2.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "82397108",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13050421",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Bertolli Frozen Chicken Florentine &#38; Farfalle - 22oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/bertolli-frozen-chicken-florentine-38-farfalle-22oz/-/A-13050421"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 11,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3093739"
+                        },
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1213676"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 8.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "13050421",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13234506",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Smucker&#39;s Uncrustables Frozen Peanut Butter &#38; Grape Jelly Sandwich - 8oz/4ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/smucker-39-s-uncrustables-frozen-peanut-butter-38-grape-jelly-sandwich-8oz-4ct/-/A-13234506"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 4.29
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13234506",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13192334",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Amy&#39;s Frozen Bowls Mexican Casserole Gluten Free - 9.5 oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/amy-39-s-frozen-bowls-mexican-casserole-gluten-free-9-5-oz/-/A-13192334"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1078853"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 6.39
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13192334",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "51953226",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Bertolli Frozen Chicken Broccoli Fettuccine Alfredo - 22oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/bertolli-frozen-chicken-broccoli-fettuccine-alfredo-22oz/-/A-51953226"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 11,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 8.39
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "51953226",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "15646372",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Marie Callender&#39;s Frozen Chicken Pot Pie - 10oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/marie-callender-39-s-frozen-chicken-pot-pie-10oz/-/A-15646372"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.19
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "BuyInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "15646372",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "81919690",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Frozen Mac &#38; Cheese Bites made with Red Lentil Pasta - 7oz - Good &#38; Gather&#8482;"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/frozen-mac-38-cheese-bites-made-with-red-lentil-pasta-7oz-good-38-gather-8482/-/A-81919690"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1992109"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 3.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "81919690",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "84728586",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Bertolli Pasta Sides Cheese &#38; Spinach Frozen Ravioli - 13oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/bertolli-pasta-sides-cheese-38-spinach-frozen-ravioli-13oz/-/A-84728586"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 11,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "price": {
+                    "current_retail": 4.49
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "84728586",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "50427809",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Simply Steamers Frozen Creamy Spinach and Tomato Linguini - 9oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-simply-steamers-frozen-creamy-spinach-and-tomato-linguini-9oz/-/A-50427809"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "50427809",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13192280",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Amy&#39;s Organic Gluten Free Frozen Corn &#38; Tomatoes Enchilada - 9oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/amy-39-s-organic-gluten-free-frozen-corn-38-tomatoes-enchilada-9oz/-/A-13192280"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1248379"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1078853"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 6.39
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13192280",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14786821",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Evol Frozen Truffle Parmesan Macaroni and Cheese Bowl - 8oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/evol-frozen-truffle-parmesan-macaroni-and-cheese-bowl-8oz/-/A-14786821"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1301766"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1219586"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1096204"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 4.29
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY",
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "14786821",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13371070",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Smucker&#39;s Uncrustables Frozen Peanut Butter &#38; Strawberry Jam Sandwich- 30oz/15ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/smucker-39-s-uncrustables-frozen-peanut-butter-38-strawberry-jam-sandwich-30oz-15ct/-/A-13371070"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 13.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13371070",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "26398567",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Caf&#233; Steamers Frozen Beef Teriyaki - 9.5oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-caf-233-steamers-frozen-beef-teriyaki-9-5oz/-/A-26398567"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.49
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "26398567",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14760224",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Smucker&#39;s Uncrustables Frozen Peanut Butter &#38; Grape Jelly Sandwich - 30oz/15ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/smucker-39-s-uncrustables-frozen-peanut-butter-38-grape-jelly-sandwich-30oz-15ct/-/A-14760224"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 13.99
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14760224",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "51972481",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Devour Frozen White Cheddar Mac &#38; Cheese with Bacon - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/devour-frozen-white-cheddar-mac-38-cheese-with-bacon-12oz/-/A-51972481"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2965716"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1213676"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.89
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "51972481",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "LIMITED_STOCK_SEE_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "OUT_OF_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "26397715",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Frozen Simply Chicken Vegetable Stir Fry - 9.25oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-frozen-simply-chicken-vegetable-stir-fry-9-25oz/-/A-26397715"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "26397715",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14777774",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Tyson Any&#39;tizers Frozen All Natural Popcorn Chicken - 24oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/tyson-any-39-tizers-frozen-all-natural-popcorn-chicken-24oz/-/A-14777774"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 5,
+                        "department_id": 210
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1015845"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 10.39
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14777774",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13234505",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Smucker&#39;s Uncrustables Frozen Peanut Butter &#38; Strawberry Jam Sandwich - 8oz/4ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/smucker-39-s-uncrustables-frozen-peanut-butter-38-strawberry-jam-sandwich-8oz-4ct/-/A-13234505"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "4320786"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 4.29
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13234505",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13409340",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Stouffer&#39;s Frozen Lasagna with Meat &#38; Sauce Classics - 10.5oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/stouffer-39-s-frozen-lasagna-with-meat-38-sauce-classics-10-5oz/-/A-13409340"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13409340",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "16710629",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Simply Steamers Frozen Chicken Fried Rice - 10oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-simply-steamers-frozen-chicken-fried-rice-10oz/-/A-16710629"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "16710629",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "16710634",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Simply Steamers Frozen Meatball Marinara - 10oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-simply-steamers-frozen-meatball-marinara-10oz/-/A-16710634"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "16710634",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "14757532",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Stouffer's Frozen Spaghetti with Meat Sauce - 12oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/stouffer-s-frozen-spaghetti-with-meat-sauce-12oz/-/A-14757532"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "3553761"
+                        },
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.69
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "14757532",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "13383310",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Jimmy Dean Sausage Egg & Cheese Frozen Croissant Sandwiches - 4ct"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/jimmy-dean-sausage-egg-cheese-frozen-croissant-sandwiches-4ct/-/A-13383310"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 5,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "1256646"
+                        },
+                        {
+                            "id": "1184307"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": true
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 6.39
+                },
+                "promotions": [],
+                "fulfillment": {
+                    "product_id": "13383310",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "12935701",
+                "item": {
+                    "is_limited_time_offer": false,
+                    "relationship_type_code": "SA",
+                    "product_description": {
+                        "title": "Healthy Choice Caf&#233; Steamers Frozen Chicken Pesto Classico - 9.9oz"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/healthy-choice-caf-233-steamers-frozen-chicken-pesto-classico-9-9oz/-/A-12935701"
+                    },
+                    "fulfillment": {},
+                    "merchandise_classification": {
+                        "class_id": 2,
+                        "department_id": 270
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "2675598"
+                        },
+                        {
+                            "id": "1142161"
+                        },
+                        {
+                            "id": "1125528"
+                        },
+                        {
+                            "id": "1034800"
+                        }
+                    ],
+                    "eligibility_rules": {
+                        "grocery": {
+                            "is_active": false
+                        }
+                    }
+                },
+                "price": {
+                    "current_retail": 3.49
+                },
+                "promotions": [
+                    {
+                        "ship_method": [
+                            "SCHEDULED_DELIVERY_PPO",
+                            "PickupInStore",
+                            "SCHEDULED_DELIVERY"
+                        ]
+                    }
+                ],
+                "fulfillment": {
+                    "product_id": "12935701",
+                    "is_out_of_stock_in_all_store_locations": false,
+                    "shipping_options": {
+                        "availability_status": "OUT_OF_STOCK",
+                        "loyalty_availability_status": "OUT_OF_STOCK",
+                        "services": []
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_id": "2822",
+                            "store": {
+                                "location_name": "Boston Fenway"
+                            },
+                            "order_pickup": {
+                                "availability_status": "IN_STOCK",
+                                "pickup_date": "2022-12-05",
+                                "guest_pick_sla": 120,
+                                "location_locale": "America/New_York"
+                            },
+                            "in_store_only": {
+                                "availability_status": "IN_STOCK"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "IN_STOCK"
+                    }
+                }
+            }
+        ]
+    }
+}

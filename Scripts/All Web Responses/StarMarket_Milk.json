@@ -1,0 +1,1350 @@
+{
+    "response": {
+        "numFound": 318,
+        "start": 20,
+        "docs": [
+            {
+                "name": "Lucerne Milk Lowfat 1% Milkfat - Half Gallon",
+                "pid": "236010015",
+                "upc": "0002113007068",
+                "id": "236010015",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 249,
+                "price": 2.69,
+                "promoEndDate": null,
+                "basePrice": 2.69,
+                "pricePer": 5.38,
+                "displayType": "-1",
+                "aisleId": "1_11_4_5",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "HG",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Coffee mate Zero Sugar French Vanilla Liquid Coffee Creamer - 64 Fl. Oz.",
+                "pid": "960146883",
+                "upc": "0005000049725",
+                "id": "960146883",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 3807,
+                "price": 8.99,
+                "promoEndDate": null,
+                "basePrice": 8.99,
+                "pricePer": 4.5,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "Lactaid Milk Lactose Free Whole - 96 Fl. Oz.",
+                "pid": "136050129",
+                "upc": "0004138309073",
+                "id": "136050129",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 652,
+                "price": 5.99,
+                "promoDescription": "Safeway Club Price: HEALTHY AISLES $5.99&lt;BR&gt;SAVE up to: $1.0",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 6.99,
+                "pricePer": 7.99,
+                "displayType": "-1",
+                "aisleId": "1_11_4_7",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk - Lactose Free",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "Coffee mate Sweet Cream All Natural Liquid Coffee Creamer - 32 Fl. Oz.",
+                "pid": "960244401",
+                "upc": "0005000080164",
+                "id": "960244401",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1455,
+                "price": 5.99,
+                "promoDescription": "Safeway Club Price: $5.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 6.49,
+                "pricePer": 5.99,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Lucerne Whipped Topping Original - 13 Oz",
+                "pid": "960077993",
+                "upc": "0002113007937",
+                "id": "960077993",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 218,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 12.28,
+                "displayType": "-1",
+                "aisleId": "1_11_4_9",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Whipping Cream",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "OZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Lactaid Milk Lactose Free Whole - Half Gallon",
+                "pid": "136010151",
+                "upc": "0004138309036",
+                "id": "136010151",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1346,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 9.98,
+                "displayType": "-1",
+                "aisleId": "1_11_4_7",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk - Lactose Free",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "HG",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Coffee mate Zero Sugar Peppermint Mocha Liquid Coffee Creamer - 32 Fl. Oz.",
+                "pid": "960145093",
+                "upc": "0005000062867",
+                "id": "960145093",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 975,
+                "price": 4.49,
+                "promoDescription": "Safeway Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 4.99,
+                "pricePer": 4.49,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Aisle 10",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": false,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Lucerne Fat Free Milk - Half Gallon",
+                "pid": "136010014",
+                "upc": "0002113007012",
+                "id": "136010014",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 331,
+                "price": 2.69,
+                "promoEndDate": null,
+                "basePrice": 2.69,
+                "pricePer": 5.38,
+                "displayType": "-1",
+                "aisleId": "1_11_4_5",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "HG",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Blue Diamond Almonds Almond Breeze Milk Vanilla Unsweetened - 96 Fl. Oz.",
+                "pid": "960127067",
+                "upc": "0004157011008",
+                "id": "960127067",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1101,
+                "price": 5.49,
+                "promoDescription": "Safeway Club Price: HEALTHY AISLES $5.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2023-01-05T23:59:00",
+                "basePrice": 5.99,
+                "pricePer": 7.32,
+                "displayType": "-1",
+                "aisleId": "1_11_4_8",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk Alternatives",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "Fairlife Milk Ultra-Filtered Whole - 52 Fl. Oz.",
+                "pid": "960142258",
+                "upc": "0081162002016",
+                "id": "960142258",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 503,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 12.28,
+                "displayType": "-1",
+                "aisleId": "1_11_4_7",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk - Lactose Free",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Fairlife Milk Ultra-Filtered Fat Free - 52 Fl. Oz.",
+                "pid": "960127166",
+                "upc": "0085631200275",
+                "id": "960127166",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 665,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 12.28,
+                "displayType": "-1",
+                "aisleId": "1_11_4_5",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Coffee mate Zero Sugar French Vanilla Liquid Coffee Creamer - 32 Fl. Oz.",
+                "pid": "136450088",
+                "upc": "0005000084811",
+                "id": "136450088",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 973,
+                "price": 4.49,
+                "promoDescription": "Safeway Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 4.99,
+                "pricePer": 4.49,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "O Organics Organic Milk Reduced Fat 2% Milkfat - Half Gallon",
+                "pid": "136010475",
+                "upc": "0007989340065",
+                "id": "136010475",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 517,
+                "price": 4.79,
+                "promoEndDate": null,
+                "basePrice": 4.79,
+                "pricePer": 9.58,
+                "displayType": "-1",
+                "aisleId": "1_11_4_5",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "HG",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Coffee mate Hazelnut Liquid Coffee Creamer - 32 Fl. Oz.",
+                "pid": "136450057",
+                "upc": "0005000032290",
+                "id": "136450057",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 798,
+                "price": 4.49,
+                "promoDescription": "Safeway Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 4.99,
+                "pricePer": 4.49,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Coffee mate Pumpkin Spice Liquid Coffee Creamer - 32 Fl. Oz.",
+                "pid": "960143276",
+                "upc": "0005000088600",
+                "id": "960143276",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 2040,
+                "price": 4.49,
+                "promoDescription": "Safeway Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P",
+                "promoEndDate": "2022-12-08T23:59:00",
+                "basePrice": 4.99,
+                "pricePer": 4.49,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Aisle 10",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": false,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Lucerne Half & Half Ultra-Pasteurized - 32 Fl. Oz.",
+                "pid": "136450089",
+                "upc": "0002113007090",
+                "id": "136450089",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 344,
+                "price": 3.99,
+                "promoEndDate": null,
+                "basePrice": 3.99,
+                "pricePer": 3.99,
+                "displayType": "-1",
+                "aisleId": "1_11_4_4",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Half & Half",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "QT",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "Lucerne Coffee Creamer Italian Sweet Cream - 32 Fl. Oz.",
+                "pid": "960060692",
+                "upc": "0002113007575",
+                "id": "960060692",
+                "featured": false,
+                "inventoryAvailable": "0",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 773,
+                "price": 3.79,
+                "promoEndDate": null,
+                "basePrice": 3.79,
+                "pricePer": 3.79,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "QT",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "0",
+                    "pickup": "0",
+                    "instore": "0"
+                }
+            },
+            {
+                "name": "Coffee mate The Original Liquid Coffee Creamer - 64 Fl. Oz.",
+                "pid": "136450062",
+                "upc": "0005000032852",
+                "id": "136450062",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 2903,
+                "price": 8.99,
+                "promoEndDate": null,
+                "basePrice": 8.99,
+                "pricePer": 4.5,
+                "displayType": "-1",
+                "aisleId": "1_11_4_2",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Coffee Creamer",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "QUART",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Bolthouse Farms Holiday Nog Low Fat - 52 Fl. Oz.",
+                "pid": "960536054",
+                "upc": "0007146401618",
+                "id": "960536054",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 9056,
+                "price": 7.99,
+                "promoEndDate": null,
+                "basePrice": 7.99,
+                "pricePer": 19.67,
+                "displayType": "-1",
+                "aisleId": "1_11_4_3",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Eggnog",
+                "unitOfMeasure": "FZ",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": false,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            },
+            {
+                "name": "Lucerne Milk Chocolate Lowfat 1% - Gallon",
+                "pid": "960197553",
+                "upc": "0002113007027",
+                "id": "960197553",
+                "featured": false,
+                "inventoryAvailable": "1",
+                "pastPurchased": false,
+                "restrictedValue": "0",
+                "salesRank": 1630,
+                "price": 4.99,
+                "promoEndDate": null,
+                "basePrice": 4.99,
+                "pricePer": 4.99,
+                "displayType": "-1",
+                "aisleId": "1_11_4_6",
+                "aisleName": "Milk & Cream|1_11_4",
+                "departmentName": "Dairy, Eggs & Cheese",
+                "shelfName": "Milk - Flavored",
+                "aisleLocation": "Dairy",
+                "unitOfMeasure": "GA",
+                "sellByWeight": "I",
+                "averageWeight": [
+                    "0.00"
+                ],
+                "unitQuantity": "GAL.",
+                "displayUnitQuantityText": "ea",
+                "displayEstimateText": null,
+                "prop65WarningIconRequired": false,
+                "isArProduct": true,
+                "isMtoProduct": false,
+                "preparationTime": "0",
+                "isMarketplaceItem": "N",
+                "algoType": "",
+                "channelEligibility": {
+                    "pickUp": true,
+                    "delivery": true,
+                    "inStore": true
+                },
+                "channelInventory": {
+                    "delivery": "1",
+                    "pickup": "1",
+                    "instore": "1"
+                }
+            }
+        ]
+    },
+    "appCode": "[A-BR: 200] [A-PP: 200] [CI200]",
+    "appMsg": "[A-BR: Success.] [A-PP: Skipped service call. ] [CI: Skipped Service Call or Flag is Disabled!]",
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 210,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 103,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 5,
+                    "start": "15",
+                    "end": "24.99"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "318",
+                    "name": "Dairy, Eggs & Cheese"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "32",
+                    "name": "Lucerne"
+                },
+                {
+                    "count": "17",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "1",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "19",
+                    "name": "Silk"
+                },
+                {
+                    "count": "17",
+                    "name": "Lactaid"
+                },
+                {
+                    "count": "13",
+                    "name": "Horizon Organic"
+                },
+                {
+                    "count": "28",
+                    "name": "Hood"
+                },
+                {
+                    "count": "10",
+                    "name": "International Delight"
+                },
+                {
+                    "count": "9",
+                    "name": "Chobani"
+                },
+                {
+                    "count": "7",
+                    "name": "Fairlife"
+                },
+                {
+                    "count": "7",
+                    "name": "Nestle"
+                },
+                {
+                    "count": "7",
+                    "name": "Organic Valley"
+                },
+                {
+                    "count": "6",
+                    "name": "Califia Farms"
+                },
+                {
+                    "count": "4",
+                    "name": "Oatly"
+                },
+                {
+                    "count": "3",
+                    "name": "Coffee mate"
+                },
+                {
+                    "count": "3",
+                    "name": "Starbucks"
+                },
+                {
+                    "count": "7",
+                    "name": "Shamrock Farms"
+                },
+                {
+                    "count": "3",
+                    "name": "Reddi-wip"
+                },
+                {
+                    "count": "2",
+                    "name": "Dunkin"
+                },
+                {
+                    "count": "2",
+                    "name": "Land O'Lakes"
+                },
+                {
+                    "count": "9",
+                    "name": "Garelick Farms"
+                },
+                {
+                    "count": "3",
+                    "name": "Blue Diamond"
+                },
+                {
+                    "count": "3",
+                    "name": "DairyPure"
+                },
+                {
+                    "count": "3",
+                    "name": "Parmalat"
+                },
+                {
+                    "count": "2",
+                    "name": "Rice Dream"
+                },
+                {
+                    "count": "2",
+                    "name": "TruMoo"
+                },
+                {
+                    "count": "1",
+                    "name": "Better Than Bouillon"
+                },
+                {
+                    "count": "1",
+                    "name": "Harmony Farms"
+                },
+                {
+                    "count": "1",
+                    "name": "Meyenberg"
+                },
+                {
+                    "count": "1",
+                    "name": "Produce"
+                },
+                {
+                    "count": "1",
+                    "name": "So Delicious"
+                },
+                {
+                    "count": "1",
+                    "name": "Southern Comfort"
+                },
+                {
+                    "count": "1",
+                    "name": "yoo-hoo"
+                },
+                {
+                    "count": "5",
+                    "name": "Good Karma"
+                },
+                {
+                    "count": "5",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "3",
+                    "name": "Milkadamia"
+                },
+                {
+                    "count": "2",
+                    "name": "Hershey's"
+                },
+                {
+                    "count": "2",
+                    "name": "Living Harvest"
+                },
+                {
+                    "count": "2",
+                    "name": "Nesquik"
+                },
+                {
+                    "count": "2",
+                    "name": "Vita Coco"
+                },
+                {
+                    "count": "1",
+                    "name": "Boursin"
+                },
+                {
+                    "count": "1",
+                    "name": "Cabot"
+                },
+                {
+                    "count": "1",
+                    "name": "Chug"
+                },
+                {
+                    "count": "1",
+                    "name": "Nellie's"
+                },
+                {
+                    "count": "1",
+                    "name": "Pacific Foods"
+                },
+                {
+                    "count": "1",
+                    "name": "Rice DREAM"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "318",
+                    "name": "Milk & Cream|1_11_4"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "243",
+                    "name": "N"
+                },
+                {
+                    "count": "75",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "244",
+                    "name": "Pescatarian"
+                },
+                {
+                    "count": "244",
+                    "name": "Vegetarian"
+                },
+                {
+                    "count": "238",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "234",
+                    "name": "No High Fructose Corn Syrup"
+                },
+                {
+                    "count": "150",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "140",
+                    "name": "Sodium-conscious"
+                },
+                {
+                    "count": "132",
+                    "name": "No Added Sugars"
+                },
+                {
+                    "count": "105",
+                    "name": "Lactose Free"
+                },
+                {
+                    "count": "89",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "69",
+                    "name": "Keto-friendly"
+                },
+                {
+                    "count": "70",
+                    "name": "Carb-conscious"
+                },
+                {
+                    "count": "74",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "41",
+                    "name": "Sugar-conscious"
+                },
+                {
+                    "count": "42",
+                    "name": "Organic"
+                },
+                {
+                    "count": "41",
+                    "name": "Soy Free"
+                },
+                {
+                    "count": "25",
+                    "name": "No Artificial Flavors"
+                },
+                {
+                    "count": "20",
+                    "name": "No Artificial Colors"
+                },
+                {
+                    "count": "21",
+                    "name": "Peanut Free"
+                },
+                {
+                    "count": "19",
+                    "name": "Paleo-friendly"
+                },
+                {
+                    "count": "15",
+                    "name": "Plant-Based"
+                },
+                {
+                    "count": "18",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "20",
+                    "name": "Protein pick"
+                },
+                {
+                    "count": "9",
+                    "name": "Egg Free"
+                },
+                {
+                    "count": "7",
+                    "name": "Halal"
+                },
+                {
+                    "count": "2",
+                    "name": "Heart Healthy"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "318",
+                    "name": "Dairy, Eggs & Cheese:|1_11"
+                }
+            ],
+            "shelfName": [
+                {
+                    "count": "56",
+                    "name": "Coffee Creamer"
+                },
+                {
+                    "count": "90",
+                    "name": "Milk Alternatives"
+                },
+                {
+                    "count": "63",
+                    "name": "Milk"
+                },
+                {
+                    "count": "23",
+                    "name": "Milk - Lactose Free"
+                },
+                {
+                    "count": "24",
+                    "name": "Whipping Cream"
+                },
+                {
+                    "count": "14",
+                    "name": "Half & Half"
+                },
+                {
+                    "count": "34",
+                    "name": "Milk - Flavored"
+                },
+                {
+                    "count": "13",
+                    "name": "Eggnog"
+                },
+                {
+                    "count": "1",
+                    "name": "Buttermilk"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "56",
+                    "name": "Coffee Creamer|1_11_4_2"
+                },
+                {
+                    "count": "90",
+                    "name": "Milk Alternatives|1_11_4_8"
+                },
+                {
+                    "count": "63",
+                    "name": "Milk|1_11_4_5"
+                },
+                {
+                    "count": "23",
+                    "name": "Milk - Lactose Free|1_11_4_7"
+                },
+                {
+                    "count": "24",
+                    "name": "Whipping Cream|1_11_4_9"
+                },
+                {
+                    "count": "14",
+                    "name": "Half & Half|1_11_4_4"
+                },
+                {
+                    "count": "34",
+                    "name": "Milk - Flavored|1_11_4_6"
+                },
+                {
+                    "count": "13",
+                    "name": "Eggnog|1_11_4_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Buttermilk|1_11_4_1"
+                }
+            ],
+            "inventoryAvailable": [
+                {
+                    "count": "247",
+                    "name": "1"
+                },
+                {
+                    "count": "71",
+                    "name": "0"
+                }
+            ]
+        },
+        "facet_queries": {}
+    }
+}
